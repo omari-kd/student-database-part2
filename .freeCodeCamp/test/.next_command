@@ -274,3 +274,4 @@ psql --username=freecodecamp --dbname=postgres
 touch student_info.sh
 chmod +x
 chmod +x student_info.sh
+./student_info.sh
