@@ -272,3 +272,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 touch student_info.sh
+chmod +x
+chmod +x student_info.sh
